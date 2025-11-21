@@ -4,11 +4,6 @@
 - ***Proficient*** with Python, Golang, C#, Java, C and C++.
 - ***Strong academic background*** with a focus on Secure Programming.
 
-**CERTS:**
-- ***CCNA 1***
-
-
-
 
 **PUBLIC PROJECT STATS:**
 
